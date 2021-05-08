@@ -1,0 +1,15 @@
+{
+  "name": "ikrestapiserver",
+  "version": "1.0.0",
+  "description": "json-server backend rest api server\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dmock backend rest api server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3001 -w db.json",
+    "ikupdate": "npm install && npm update && npm audit fix && exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

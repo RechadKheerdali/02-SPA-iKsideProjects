@@ -1,0 +1,42 @@
+	/******/
+	/*Redux-Store/kStore.js.js file*/
+	/******/
+	/******/
+	/*Redux-Reducers/kReducer1.js file*/
+	/******/
+iKgoogleUserObject_REDUCER = {
+    iKgoogleSignInStatus: ...,
+    iKgoogleUserClientId: ...,
+    iKgoogleUserEmail: ...
+}
+
+	/******/
+	/*Redux-ActionTypes/kActionType.js file*/
+	/******/
+	/******/
+	/*Redux-ActionCreators/kActionCreator1.js file*/
+	/******/
+iKloadGoogleAuth2InstanceObject (not an AC but will be used by other AC)
+
+iKgetTheCurrentGoogleSignInStatus_AC
+iKattachListenerForGoogleSignInStatusOntoComponent_AC
+iKsigningInToGoogle_AC
+    - payload: clientId / email
+iKsigningOutOfGoogle_AC
+
+	/******/
+	/*App.js file*/
+	/******/
+
+	/******/
+	/*components/KgoogleSignInButton.js file*/
+	/******/
+- get and store the current signin status and place in redux.
+- .listen() --iK listen for sign in status changes.
+-signin button
+-signout button
+
+	/******/
+	/*index.js file*/
+	/******/
+ReactDOM.render(<App />, document.getElementById('root'));
