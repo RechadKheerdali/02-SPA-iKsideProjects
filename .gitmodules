@@ -1,0 +1,6 @@
+[submodule "202108-00expressPractice"]
+	path = 202108-00expressPractice
+	url = https://github.com/RechadKheerdali/202108-00expressPractice.git
+[submodule "202108-MERN-CsrPrac-gitSubModule"]
+	path = 202108-MERN-CsrPrac-gitSubModule
+	url = https://github.com/RechadKheerdali/202108-MERN-CsrPrac-gitSubModule.git
