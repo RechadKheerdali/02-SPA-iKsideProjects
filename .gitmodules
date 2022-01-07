@@ -1,6 +1,6 @@
-[submodule "202108-00expressPractice"]
-	path = 202108-00expressPractice
-	url = https://github.com/RechadKheerdali/202108-00expressPractice.git
-[submodule "202108-MERN-CsrPrac-gitSubModule"]
-	path = 202108-MERN-CsrPrac-gitSubModule
-	url = https://github.com/RechadKheerdali/202108-MERN-CsrPrac-gitSubModule.git
+[submodule "202108-fullstackMERN-Csr-gitSubModule-iKboil"]
+	path = 202108-fullstackMERN-Csr-gitSubModule-iKboil
+	url = https://github.com/RechadSalma/202108-fullstackMERN-Csr-gitSubModule-iKboil.git
+[submodule "iKexpressPractice-202108"]
+	path = iKexpressPractice-202108
+	url = https://github.com/RechadSalma/iKexpressPractice-202108.git
